@@ -1,0 +1,8 @@
+{
+  "public": {},
+  "private": {},
+  "meteor-google-cloud": {
+    "project": "nifty-stage-267200",
+    "stop-previous-version": ""
+  }
+}
