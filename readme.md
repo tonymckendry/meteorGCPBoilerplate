@@ -1,4 +1,4 @@
-# Zenbox
+# Meteor GCP Boilerplate 
 
 ### Developing Locally
 
